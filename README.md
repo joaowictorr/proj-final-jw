@@ -1,4 +1,4 @@
-💿 Spin & Groove | Vinyl Shop
+#💿 Spin & Groove | Vinyl Shop
 Bem-vindo ao Spin & Groove, um e-commerce projetado para unir gerações através do som. Do catálogo clássico em 180g aos lançamentos mais quentes da música atual em edições coloridas e exclusivas.
 
 🎯 Objetivo do Projeto
