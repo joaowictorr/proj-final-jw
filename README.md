@@ -22,3 +22,9 @@ Filtros Inteligentes: Busque por artista, gênero ou década de lançamento.
 Sistema de Estoque: Controle em tempo real de itens raros e pré-vendas.
 
 Responsividade: Experiência de compra otimizada para Desktop e Mobile.
+
+## 🗺️ Plano do Projeto (Roadmap)
+- [x] Configuração inicial do Git e Git Flow.
+- [ ] Criação da vitrine de vinis (Front-end).
+- [ ] Implementação do carrinho de compras.
+- [ ] Integração com API de pagamentos.
