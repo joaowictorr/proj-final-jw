@@ -25,6 +25,9 @@ Responsividade: Experiência de compra otimizada para Desktop e Mobile.
 
 ## 🗺️ Plano do Projeto (Roadmap)
 - [x] Configuração inicial do Git e Git Flow.
-- [ ] Criação da vitrine de vinis (Front-end).
+- [x] Criação da tela de login.
+- [ ] Criação da tela de cadastro.
+- [ ] Criação da vitrine de vinis.
+- [ ] Criação da página do produto.
 - [ ] Implementação do carrinho de compras.
 - [ ] Integração com API de pagamentos.
