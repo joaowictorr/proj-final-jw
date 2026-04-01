@@ -31,3 +31,4 @@ Responsividade: Experiência de compra otimizada para Desktop e Mobile.
 - [ ] Criação da página do produto.
 - [ ] Implementação do carrinho de compras.
 - [ ] Integração com API de pagamentos.
+- [ ] XRDFVGYBJHMKONIHUBYDERXSVGBHUNJI
